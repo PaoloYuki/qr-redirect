@@ -1,0 +1,13 @@
+
+{
+  "name": "qr-redirect-server",
+  "version": "1.0.0",
+  "description": "Serveur de redirection pour nos tests QR Code",
+  "main": "serveur.js",
+  "scripts": {
+    "start": "node serveur.js"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4"
+  }
+}
